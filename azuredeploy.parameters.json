@@ -3,13 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "toor"
+    },
+    "authenticationType": {
+      "value": "password"
     },
     "adminPasswordOrKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "myvmgolbal"
+    },
+    "ubuntuOSVersion": {
+      "value": "18.04-LTS"
+    },
+    "location": {
+      "value": "East US"
     }
   }
 }
